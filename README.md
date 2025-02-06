@@ -27,7 +27,7 @@ Ao utilizar esses conceitos de desenvolvimento Front End eu estimulei a minha cr
 
 ![Demonstração do Projeto](./src/assets/demo/gifSpotify.gif)
 
-[Acesse o projeto online aqui](https://seu-usuario.github.io/seu-projeto)
+[Acesse o projeto online aqui](https://imersao-alura-spotify-iota.vercel.app/)
 
 
 ## CONSIDERAÇÕES FINAIS
